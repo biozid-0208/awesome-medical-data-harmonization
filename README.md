@@ -1,2 +1,2 @@
-# awesome-medical-data-harmonization
-Harmonization Algorithms for Medical Data Pooling
+# Harmonization Algorithms for Medical Data Pooling
+
