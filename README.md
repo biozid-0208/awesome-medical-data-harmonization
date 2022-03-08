@@ -6,7 +6,7 @@ A curated list of resources including papers, data modality, and code pertaining
 
 |Date|Title|Modality|Venue|Code|
 |---|---|---|---|---|
-|11/2017|Harmonization Of Multi-Site Diffusion Tensor Imaging Data| DTI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2017.08.047)| [R](https://github.com/Jfortin1/ComBatHarmonization), [Python](https://github.com/Jfortin1/neuroCombat) |
+|11/2017|Harmonization of Multi-Site Diffusion Tensor Imaging Data| DTI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2017.08.047)| [R](https://github.com/Jfortin1/ComBatHarmonization), [Python](https://github.com/Jfortin1/neuroCombat) |
 |02/2018|Harmonization of Cortical Thickness Measurements across Scanners and Sites| MRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2017.11.024)| [R](https://github.com/Jfortin1/ComBatHarmonization), [Python](https://github.com/Jfortin1/neuroCombat) |
 |01/2019|Retrospective Harmonization of Multi-site Diffusion MRI Data Acquired with Different Acquisition Parameters| dMRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2018.08.073)| [Python](https://github.com/pnlbwh/dMRIharmonization) |
 |12/2019|DeepHarmony: A Deep Learning Approach to Contrast Harmonization across Scanner Changes | MRI |[MRI](https://doi.org/10.1016/j.mri.2019.05.041)| - |
@@ -18,5 +18,5 @@ A curated list of resources including papers, data modality, and code pertaining
 |09/2021|Deep Generative Medical Image Harmonization for Improving Cross-Site Generalization in Deep Learning Predictors | MRI |[JMRI](https://doi.org/10.1002/jmri.27908)| -|
 |09/2021|Harmonization with Flow-Based Causal Inference | MRI |[MICCAI](https://doi.org/10.1007/978-3-030-87199-4_17)| [PyTorch](https://github.com/rongguangw/flow-scm) |
 |11/2021|Unsupervised MR Harmonization by Learning Disentangled Representations Using Information Bottleneck Theory | MRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2021.118569)| - |
-|12/2021|Mitigating site effects in covariance for machine learning in neuroimaging data | MRI |[HBM](https://doi.org/10.1002/hbm.25688)| [R](https://github.com/andy1764/CovBat_Harmonization) |
-|03/2022|Privacy-preserving harmonization via distributed ComBat | MRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2021.118822)| [R](https://github.com/andy1764/Distributed-ComBat)|
+|12/2021|Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data | MRI |[HBM](https://doi.org/10.1002/hbm.25688)| [R](https://github.com/andy1764/CovBat_Harmonization) |
+|03/2022|Privacy-preserving Harmonization via Distributed ComBat | MRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2021.118822)| [R](https://github.com/andy1764/Distributed-ComBat)|
