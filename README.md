@@ -8,6 +8,7 @@ A curated list of resources including papers, data modality, and code pertaining
 |---|---|---|---|---|
 |11/2017|Harmonization of Multi-Site Diffusion Tensor Imaging Data| DTI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2017.08.047)| [R](https://github.com/Jfortin1/ComBatHarmonization), [Python](https://github.com/Jfortin1/neuroCombat) |
 |02/2018|Harmonization of Cortical Thickness Measurements across Scanners and Sites| MRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2017.11.024)| [R](https://github.com/Jfortin1/ComBatHarmonization), [Python](https://github.com/Jfortin1/neuroCombat) |
+|07/2018|Statistical Harmonization Corrects Site Effects in Functional Connectivity Measurements from Multi-site fMRI Data | fMRI |[HBM](https://doi.org/10.1002/hbm.24241)| [MATLAB](https://github.com/Jfortin1/ComBatHarmonization/tree/master/Matlab) |
 |01/2019|Retrospective Harmonization of Multi-site Diffusion MRI Data Acquired with Different Acquisition Parameters| dMRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2018.08.073)| [Python](https://github.com/pnlbwh/dMRIharmonization) |
 |12/2019|DeepHarmony: A Deep Learning Approach to Contrast Harmonization across Scanner Changes | MRI |[MRI](https://doi.org/10.1016/j.mri.2019.05.041)| - |
 |03/2020|Harmonization of Large MRI Datasets for The Analysis of Brain Imaging Patterns Throughout The Lifespan | MRI |[NeuroImage](https://doi.org/10.1016/j.neuroimage.2019.116450)| [Python](https://github.com/rpomponio/neuroHarmonize) |
